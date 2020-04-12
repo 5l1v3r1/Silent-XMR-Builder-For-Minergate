@@ -8,11 +8,17 @@ open URL https://minergate.com/xmr-mining-pool
 1. Open Update-Definition
 -------------------------------------------------- -------------------------------------
 2. Open XMR Builder
+
 Enter Setup in XMR Builder
+
 Pool: xmr.pool.minergate.com Port: 45700
+
 Example: xmr.pool.minergate.com: 45700
+
 Wallet Address / User: Your Email
+
 Password: Empty Only
+
 Inject Into: Exploler.exe
 
 Install tab
