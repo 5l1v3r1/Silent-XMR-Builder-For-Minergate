@@ -5,9 +5,9 @@ Create an account at minergate, After creating an account make sure your email i
 
 open URL https://minergate.com/xmr-mining-pool
 -------------------------------------------------- -------------------------------------
-1. Open Update-Definition
+
 -------------------------------------------------- -------------------------------------
-2. Open XMR Builder
+1: Open XMR Builder
 
 Enter Setup in XMR Builder
 
